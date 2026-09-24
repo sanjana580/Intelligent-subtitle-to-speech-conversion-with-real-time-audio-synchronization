@@ -23,6 +23,10 @@ streamlit run app.py
 - `requirements.txt` installs Python packages
 - `packages.txt` installs system packages (this project uses `ffmpeg`)
 
+- 
+## 🚀 Live App
+
+[Open Subtitle → Speech → Video App](https://text-to-speech-p-fzbajhkwumxgyuhvyq3teq.streamlit.app/)
 ## Notes
 
 - Subtitle extraction from the video only works if the video contains embedded subtitle streams. For best reliability, **upload an `.srt` file**.
